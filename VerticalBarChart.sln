@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VerticalBarChart", "VerticalBarChart\VerticalBarChart.csproj", "{DD2B914C-0E15-4698-987E-AA276217AE19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD2B914C-0E15-4698-987E-AA276217AE19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD2B914C-0E15-4698-987E-AA276217AE19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD2B914C-0E15-4698-987E-AA276217AE19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD2B914C-0E15-4698-987E-AA276217AE19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0375CCF2-847A-4D73-820C-2E781D9610D5}
+	EndGlobalSection
+EndGlobal
